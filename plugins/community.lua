@@ -13,6 +13,5 @@ return {
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.scrolling.cinnamon-nvim" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
-  { import = "astrocommunity.editing-support.chatgpt-nvim" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
 }
